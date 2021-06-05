@@ -3,7 +3,7 @@ body{
     padding:auto;
     background-color:white;
     color:white;
-    text-align: left;
+    text-align: center;
 }
 
 /* Navigation Bar */
@@ -13,7 +13,7 @@ body{
     margin:auto;
     padding: 0;
     overflow: hidden;
-    background-color: none ;
+    background-color: white ;
     font-family: cursive;
 }
 .navBar li {
@@ -21,9 +21,9 @@ body{
 }
 .nav-el{
     display:inline-block;
-    color:56EEF8 ;
+    color:DDF3F2 ;
     text-align: center;
-    padding: 14px 16px;
+    padding: 22px 22px;
     text-decoration: none;     
     border-right: 1px solid ;         
 }
