@@ -13,8 +13,8 @@ body{
     text-align:center;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #white;
+    overflow: showen;
+    background-color: DDF3F2;
     font-family: cursive;
 }
 .navBar li {
