@@ -4,7 +4,6 @@ body{
     background-color: white;
     color: white;
     text-align: left;
-    font-family: cursive;
 }
 
 
@@ -15,8 +14,8 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #white
-   ;
+    background-color: #white;
+    font-family: cursive;
 }
 .navBar li {
     float: left;
