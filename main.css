@@ -1,8 +1,8 @@
 body{
     margin:0;
     padding:0;
-    background-color: #EEEEEE;
-    color: black;
+    background-color: white;
+    color: white;
     text-align: center;
 }
 
@@ -14,7 +14,8 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #343A40;
+    background-color: #white
+   ;
 }
 .navBar li {
     float: left;
@@ -89,8 +90,8 @@ span{
     color: #FFFFFF;
 }
 .nav-btns:hover {
-    background-color: #53b324;
-    color: black;
+    background-color: white;
+    color: white;
     
 }
 
