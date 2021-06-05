@@ -12,7 +12,7 @@ body{
     list-style-type:none;
     text-align:center;
     margin:auto;
-    padding: 0;
+    padding:inherit;
     overflow: hidden;
     background-color: none ;
     font-family: cursive;
@@ -21,8 +21,8 @@ body{
     float: left;
 }
 .nav-el{
-    display: grid;
-    color:;
+    display::inline-block;
+    color:56EEF8;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;     
