@@ -1,8 +1,8 @@
 body{
     margin:auto;
     padding:auto;
-    background-color: none;
-    color: white;
+    background-color:;
+    color:;
     text-align: left;
 }
 
@@ -22,7 +22,7 @@ body{
 }
 .nav-el{
     display: grid;
-    color: white;
+    color:;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;     
