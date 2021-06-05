@@ -1,7 +1,7 @@
 body{
     margin:auto;
     padding:auto;
-    background-color: white;
+    background-color: none;
     color: white;
     text-align: left;
 }
@@ -9,7 +9,7 @@ body{
 
 /* Navigation Bar */
 .navBar ul{
-    list-style-type:flot;
+    list-style-type:none;
     text-align:center;
     margin:auto;
     padding: 0;
