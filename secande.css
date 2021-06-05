@@ -40,3 +40,16 @@ img {
   margin-right: 70%;
   width:30%
 }
+.button {
+  border: none;
+  color: 15EAB2;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: right;
+  font-size:30px;
+  margin: 8px 45px;
+  cursor: pointer;
+  font-family:cursive;
+}
+.button1 {background-color:15EAB2 ;} /*15EAB2*/
