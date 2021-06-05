@@ -3,7 +3,7 @@ body{
     padding:auto;
     background-color:F1F1F1;
     color:none;
-    text-align: center;
+    text-align:-webkit-match-parent;
     font-family:system-ui;
 }
 
