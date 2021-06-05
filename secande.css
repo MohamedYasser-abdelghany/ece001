@@ -33,3 +33,9 @@ body{
     background-color:56EEF8;
     color:white;
 }
+img {
+  display: block;
+  margin-left: 30%;
+  margin-right: 70%;
+  width:30%
+}
