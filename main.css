@@ -11,7 +11,7 @@ body{
     list-style-type:none;
     text-align:center;
     margin:auto;
-    padding: 0;
+    padding:inherit;
     overflow: hidden;
     background-color: white ;
     font-family: cursive;
@@ -21,11 +21,11 @@ body{
 }
 .nav-el{
     display:inline-block;
-    color:DDF3F2 ;
+    color:56EEF8 ;
     text-align: center;
     padding: 22px 22px;
     text-decoration: none;     
-    border-right: 1px solid ;         
+    border-right: 1px solid inherit ;         
 }
 .active{
     background-color:56EEF8;
