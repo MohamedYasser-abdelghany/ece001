@@ -14,7 +14,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: visible;
-    background-color: DDF3F2;
+    background-color: white ;
     font-family: cursive;
 }
 .navBar li {
@@ -22,14 +22,14 @@ body{
 }
 .nav-el{
     display: block;
-    color: #FFFFFF;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;     
     border-right: 1px solid #bbb;         
 }
 .active{
-    background-color: #488f25;
+    background-color: white;
     color: black;
 }
 .navBar li img{
@@ -41,7 +41,7 @@ body{
     text-align: center;
 }
 .navBar li a:hover , .navBar li img:hover{
-    background-color: #53b324;
+    background-color: white;
 }
 
 
@@ -86,8 +86,8 @@ span{
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
-    background-color: #343A40;
-    color: #FFFFFF;
+    background-color: white;
+    color: white;
 }
 .nav-btns:hover {
     background-color: white;
