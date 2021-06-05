@@ -20,10 +20,14 @@ body{
     float: left;
 }
 .nav-el{
-    display:block;
-    color:white;
+    display: block;
+    color: blue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;     
     border-right: 1px solid ;         
+}
+.active{
+    background-color: #488f25;
+    color: black;
 }
