@@ -1,11 +1,10 @@
 body{
     margin:auto;
     padding:auto;
-    background-color:;
+    background-color:white;
     color:white;
     text-align: left;
 }
-
 
 /* Navigation Bar */
 .navBar ul{
@@ -22,9 +21,9 @@ body{
 }
 .nav-el{
     display:block;
-    color:;
+    color:white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;     
-    border-right: 1px solid #bbb;         
+    border-right: 1px solid ;         
 }
