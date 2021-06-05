@@ -13,7 +13,7 @@ body{
     margin:auto;
     padding:inherit;
     overflow: hidden;
-    background-color: white ;
+    background-color:none ;
     font-family: cursive;
 }
 .navBar li {
