@@ -1,2 +1,2 @@
 # ece001
-@import '_config.yml';
+theme: THEME-NAME
