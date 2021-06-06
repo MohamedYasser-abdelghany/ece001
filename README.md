@@ -1,3 +1,3 @@
 # ece001
-theme: THEME-NAME
+theme: jekyll-theme-cayman
 remote_theme: THEME-NAME
