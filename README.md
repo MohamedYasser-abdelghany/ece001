@@ -1,2 +1,2 @@
 # ece001
-theme: jekyll-theme-cayman
+@import '_config.yml';
