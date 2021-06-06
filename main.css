@@ -18,7 +18,7 @@ body{
     overflow: hidden;
     background-color: ;
     font-family: cursive;
-     font-size: 30px;
+     font-size: 32px;
 }
 .navBar li {
     float: left;
@@ -27,7 +27,7 @@ body{
     display:inline-block;
     color:##80f3f4 ;
     text-align: center;
-    padding: 22px 22px;
+    padding: 24px 29px;
     text-decoration: none;     
     border-right: 1px solid inherit ;         
 }
