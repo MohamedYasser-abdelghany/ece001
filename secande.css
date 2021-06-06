@@ -34,11 +34,16 @@ body{
     background-color:56EEF8;
     color:white;
 }
-img {
-  display: block;
-  margin-left: 30%;
-  margin-right: 70%;
-  width:30%
+.navBar li img{
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    padding-left: 10px;
+    float: right;
+    text-align: center;
+}
+.navBar li a:hover , .navBar li img:hover{
+    background-color:
 }.
 /* Container Stuff */
 h1{
