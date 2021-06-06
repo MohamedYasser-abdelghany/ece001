@@ -39,4 +39,10 @@ img {
   margin-left: 30%;
   margin-right: 70%;
   width:30%
+}.
+/* Container Stuff */
+h1{
+    text-align: center;
 }
+.container{
+    margin: 20px;
