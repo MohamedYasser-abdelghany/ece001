@@ -15,6 +15,7 @@ body{
     overflow: hidden;
     background-color: ;
     font-family: cursive;
+     font-size: 30px;
 }
 .navBar li {
     float: left;
