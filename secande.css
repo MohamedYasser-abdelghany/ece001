@@ -33,21 +33,4 @@ body{
 .active{
     background-color:56EEF8;
     color:white;
-}
-.navBar li img{
-    width: 35px;
-    height: 35px;
-    padding: 5px;
-    padding-left: 10px;
-    float: right;
-    text-align: center;
-}
-.navBar li a:hover , .navBar li img:hover{
-    background-color:
-}.
-/* Container Stuff */
-h1{
-    text-align: center;
-}
-.container{
-    margin: 20px;
+
