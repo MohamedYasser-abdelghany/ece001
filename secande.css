@@ -28,11 +28,13 @@ body{
     text-align: center;
     padding: 22px 22px;
     text-decoration: none;     
-    border-right: 1px solid  inherit ;         
+    border-right: 1px solid  inherit ;
+     background-color:#F2F7F8;
 }
+a:hover{ background-color:#36CCCC }
 .active{
-    background-color:56EEF8;
-    color:white;}
+    background-color:#56EEF8;
+    }
     img {
   display: block;
   margin-left: auto;
