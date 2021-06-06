@@ -4,6 +4,8 @@ body{
     background-color:none;
     color:white;
     text-align: center;
+    text-align:-webkit-match-parent;
+   
 }
 
 /* Navigation Bar */
@@ -22,13 +24,13 @@ body{
 }
 .nav-el{
     display:inline-block;
-    color:56EEF8 ;
+    color:#56EEF8 ;
     text-align: center;
     padding: 22px 22px;
     text-decoration: none;     
     border-right: 1px solid inherit ;         
 }
+a:hover{ background-color:#36CCCC }
 .active{
-    background-color:56EEF8;
-    color:white;
-}
+    background-color:#56EEF8;
+    }
