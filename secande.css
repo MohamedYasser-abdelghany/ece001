@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-
+@import 'jekyll-theme-cayman';
 body{
     margin:auto;
     padding:auto;
